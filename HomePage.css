@@ -1,0 +1,37 @@
+.title {
+    color: #000;
+    font-family: Inika;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    width: 458px;
+    height: 39px;
+    top: 79px;
+    left: 57px
+}
+hr {
+    width: 90%;
+    position: absolute;
+    top: 110px;
+    left: 50px;
+}
+article {
+    color: #000;
+    font-family: Inika;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    width: 680px;
+    height: 198px;
+    top: 600px;
+    left: 46px
+}
+.profilepicture {
+    position: absolute;
+    top: 150px;
+    left: 46px;
+}
