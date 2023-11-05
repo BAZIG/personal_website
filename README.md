@@ -1,5 +1,2 @@
 # webDev
-Web developpment training. With html, css and js
-
-Idea of the project:
-making a portfolio website for myself
+Web developpment training. With html and css usage. test of flex, grid, bootstrap...
